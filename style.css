@@ -1,0 +1,85 @@
+.section-class {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 200px;
+  text-align: center;
+}
+
+.navigations {
+  list-style: none;
+  display: flex;
+}
+
+.navs-items{
+  padding: 10px;
+}
+
+.header-class {
+  background-color: #ffffff;
+}
+
+.appointment-button {
+  background-color: white;
+  padding: 8px 20px;
+  color: #ca918d;
+  margin-left: 20px;
+  border-width: 2px;
+  border-color: red;
+}
+
+.colum-1 {
+  background-image: url(/stories.jpg);
+  background-repeat: no-repeat;
+  height: 700px;
+  background-size: cover;
+  color: blue;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+.heading-text {
+  color: red;
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+.colum-3 {
+  font-size: 45px;
+  text-align: center;
+}
+
+.colum-2 {
+  font-size: 21px;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.request-button {
+  padding: 15px 18px;
+  border: none;
+  color: red;
+  text-align: center;
+
+}
+
+.button {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+}
